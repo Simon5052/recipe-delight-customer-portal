@@ -1,0 +1,42 @@
+.mainbody {
+  height: 55vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)),
+    url("https://th.bing.com/th/id/R.1e4ffc0c6cd666e77d859677e564e09d?rik=6l%2fYWj%2bIX691Lg&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2017%2f11%2f17%2f371885-food-pizza.jpg&ehk=ZOPirdd%2beQO5Dv0v5a4DQR9vZNhUb8HKedOfznD%2b8MM%3d&risl=&pid=ImgRaw&r=0");
+  width: 100%;
+  background-size: contain;
+  background-position: center center;
+  background-blend-mode: darken;
+  color: white;
+}
+
+.mainbody_content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainbody_content > h1 {
+  margin-top: 5rem;
+}
+
+.search_section {
+  margin-top: 2rem;
+  background-color: white;
+  border: none;
+}
+
+.search_section > input {
+  width: 550px;
+  height: 60px;
+  outline: none;
+  border: none;
+}
+
+.search_section > button {
+  width: 60px;
+  height: 60px;
+  border: none;
+  border-radius: 1px;
+  background-color: white;
+}
