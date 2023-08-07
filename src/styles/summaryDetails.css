@@ -1,0 +1,24 @@
+.summaryDetails {
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  margin-left: 154px;
+  margin-right: 154px;
+}
+
+.line_break {
+  border-bottom: 1px solid black;
+}
+
+.totals {
+  color: rgba(235, 162, 25, 0.723);
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+.totals_info {
+  margin-top: 10px;
+  font-size: 1rem;
+}
