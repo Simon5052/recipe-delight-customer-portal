@@ -40,3 +40,8 @@
   border-radius: 1px;
   background-color: white;
 }
+
+.main_body_text {
+  margin-top: 2rem;
+  font-size: 30px;
+}

@@ -13,7 +13,7 @@ const MainBody = () => {
           </button>
           <input />
         </div>
-        <p className="">
+        <p className="main_body_text">
           Unleash Your Inner Chef! Discover a world of mouthwatering recipes .
         </p>
       </div>

@@ -11,7 +11,7 @@ function SummaryDetails() {
       </div>
       <div>
         <h2 className="totals">100+</h2>
-        <p className="totals_info">Recipes</p>
+        <p className="totals_info">Recipes available</p>
       </div>
       <div>
         <h2 className="totals">20+</h2>
